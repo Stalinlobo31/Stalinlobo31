@@ -1,61 +1,114 @@
-# Hi there 👋 I'm Stalin Lobo
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Stalin%20Lobo&fontAlign=50&fontAlignY=40&color=0:7dd3fc,100:0f172a&animation=twinkling&desc=CSE%20Student&descAlignY=60"/>
-</p>
+# 👋 Hi, I'm **Stalin Lobo**
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=CSE+Student;Learning+Python+and+MySQL;Building+real-world+projects;Open+to+Internships"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Stalin%20Lobo&fontAlign=50&fontAlignY=38&animation=twinkling&color=0:38bdf8,100:0f172a&desc=CSE%20Student%20|%20Aspiring%20Software%20Developer&descAlignY=60"/>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Open%20to-Internships-success"/>
-<img src="https://komarev.com/ghpvc/?username=Stalinlobo31&color=7dd3fc"/>
-<img src="https://img.shields.io/github/followers/Stalinlobo31?label=Followers&style=social"/>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Student;Learning+Python+%26+MySQL;Building+Real+World+Projects;Open+to+Internship+Opportunities;Always+Learning+Something+New)](https://git.io/typing-svg)
 
-## Who I Am
+![Open To Work](https://img.shields.io/badge/Open%20To-Internships-success?style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Stalinlobo31&style=for-the-badge&color=38bdf8)
+![Followers](https://img.shields.io/github/followers/Stalinlobo31?style=for-the-badge)
+
+</div>
+
+---
+
+## 💫 About Me
 
 ```ts
 const stalin = {
-  title: "CSE Student",
-  stack: ["Python","MySQL"],
-  launchedProjects: [],
-  certifications: [],
-  status: "Learning and building projects",
-  openTo: "Internships"
+  role: "CSE Student",
+  currentlyLearning: ["Python", "MySQL"],
+  currentProject: "Asset Logger",
+  goal: "Become a Software Developer",
+  openTo: "Internships",
+  mindset: "Learn → Build → Improve → Repeat"
 }
 ```
 
-## Featured Projects
+### 🚀 A little about me
 
-> Currently omitted. My Asset Logger project will be added after it is uploaded to GitHub.
+- 🎓 Computer Science Engineering student
+- 🐍 Learning Python and strengthening programming fundamentals
+- 🗄️ Working with MySQL databases
+- 💡 Building beginner-friendly projects to gain practical experience
+- 📈 Improving every day through coding and problem solving
+- 🤝 Looking for internship opportunities
 
-## Tech Stack
+---
 
-### Languages
-![Skills](https://skillicons.dev/icons?i=python)
+# 🛠 Tech Stack
 
-### Databases
-![Skills](https://skillicons.dev/icons?i=mysql)
+### Programming
+<p>
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode"/>
+</p>
 
-## GitHub Stats
+---
 
-![](https://github-readme-stats.vercel.app/api?username=Stalinlobo31&show_icons=true&theme=nord)
+# 📌 Featured Project
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Stalinlobo31&layout=compact&theme=nord)
+## Asset Logger
 
-![](https://streak-stats.demolab.com?user=Stalinlobo31&theme=nord)
+> 🚧 Currently under development.  
+> Once uploaded to GitHub, this section will automatically be upgraded with repository cards, screenshots and documentation.
 
-![](https://github-profile-trophy.vercel.app/?username=Stalinlobo31&theme=nord&no-frame=true&no-bg=true)
+---
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=Stalinlobo31&theme=nord)
-
-## Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/stalin-lobo-912b62301)
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:stalinlobo31@gmail.com)
+# 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:7dd3fc,100:0f172a"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Stalinlobo31&show_icons=true&theme=nord&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stalinlobo31&layout=compact&theme=nord&hide_border=true"/>
 </p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Stalinlobo31&theme=nord&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Stalinlobo31&theme=nord&no-frame=true&no-bg=true&row=1&column=6"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Stalinlobo31&theme=nord"/>
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Master Python
+- ✅ Become confident with MySQL
+- 🔄 Upload multiple GitHub projects
+- 🎯 Land my first software internship
+- 🚀 Keep learning every day
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="mailto:stalinlobo31@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/stalin-lobo-912b62301">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Every expert was once a beginner. I'm building one project at a time."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:38bdf8,100:0f172a"/>
+
+</div>
